@@ -37,10 +37,10 @@ public class Developer {
         
         Team team = new Team("s26-13");
         team.addMember("SURYA");
-        team.addMember("NICK THANAS");
-        team.addMember("JOAQUIN WRIGHT");
-        team.addMember("ROHAN VED");
-        team.addMember("ARYA HASSAN");
+        team.addMember("NICK");
+        team.addMember("JOAQUIN");
+        team.addMember("ROHAN");
+        team.addMember("ARYA");
         team.addMember("SAFWAN");
         return team;
     }
